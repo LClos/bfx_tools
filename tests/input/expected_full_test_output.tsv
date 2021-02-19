@@ -1,0 +1,6 @@
+query	id	gene_id	gene_symbol	codons	impact	most_severe_consequence	clin_sig_allele	error
+NC_000001.11:g.215674515G>A	NC_000001.11:g.215674515G>A	ENSG00000042781	USH2A	Cct/Tct	MODERATE	missense_variant	A:likely_pathogenic;A:likely_benign;A:uncertain_significance	NA
+NC_000001.11:g.40819893G>A	NC_000001.11:g.40819893G>A	ENSG00000117013	KCNQ4	Ggc/Agc	MODERATE,MODIFIER	missense_variant	T:pathogenic;A:pathogenic	NA
+NC_000001.11:g.40819893T>A	NA	NA	NA	NA	NA	NA	NA	page not found. Please check your uri and refer to our documentation https://rest.ensembl.org/
+NC_000002.12:g.39006443C>T	NC_000002.12:g.39006443C>T	ENSG00000115904	SOS1	agG/agA	LOW,MODIFIER	synonymous_variant	T:benign/likely_benign;T:uncertain_significance;T:benign	NA
+NC_000006.12:g.152387156G>A	NC_000006.12:g.152387156G>A	ENSG00000131018	SYNE1	taC/taT	LOW,MODIFIER	synonymous_variant	A:conflicting_interpretations_of_pathogenicity;A:likely_benign	NA
